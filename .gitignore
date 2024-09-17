@@ -1,0 +1,15 @@
+/backend/env
+/backend/backend/__pycache__
+/backend/users/__pycache__
+/backend/users/migrations/__pycache__
+/backend/exp/__pycache__
+/backend/exp/migrations/__pycache__
+/backend/skills/__pycache__
+/backend/skills/migrations/__pycache__
+/backend/trainings/__pycache__
+/backend/trainings/migrations/__pycache__
+/backend/students/__pycache__
+/backend/students/migrations/__pycache__
+/backend/question_answer/__pycache__
+/backend/question_answer/migrations/__pycache__
+/backend/db.sqlite3

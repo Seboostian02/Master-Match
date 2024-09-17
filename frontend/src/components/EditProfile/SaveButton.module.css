@@ -1,0 +1,17 @@
+.button {
+    padding: 10px 20px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 20%; 
+    text-align: center;
+    float: right;
+}
+
+.saveButton {
+    background-color: #4CAF50; 
+    flex-direction: row;
+    margin-top: 0%; 
+}

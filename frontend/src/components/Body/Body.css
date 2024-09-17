@@ -1,0 +1,12 @@
+.body-div{
+    /* height: 700px; */
+    transition: 0.5s;
+}
+.body {
+    flex: 1; /* Asigură că body ocupă spațiul rămas */
+  }
+
+  .dark .body-div{
+    background: #000;
+    color: #fff;
+  }
